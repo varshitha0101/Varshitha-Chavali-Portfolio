@@ -181,9 +181,13 @@ export default function Home() {
             <div className="proj-stack">
               <span className="stack-tag">Next.js</span><span className="stack-tag">Node.js</span><span className="stack-tag">AI Pipeline</span><span className="stack-tag">Salesforce APIs</span>
             </div>
-            <div style={{marginTop: '15px', display: 'flex', gap: '10px'}}>
-              <a href="https://salespulseai.vercel.app/" target="_blank" rel="noreferrer" className="btn-primary" style={{padding: '6px 12px', fontSize: '10px'}}>Live Demo</a>
-              <a href="https://github.com/varshitha0101/SalesPulseAI" target="_blank" rel="noreferrer" className="btn-ghost" style={{padding: '6px 12px', fontSize: '10px'}}>GitHub</a>
+            <div className="flex gap-4 mt-6">
+              <a href="https://salespulseai.vercel.app/" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-5 py-2.5 bg-[#a3ff12] text-black text-sm font-bold tracking-widest uppercase rounded hover:bg-[#92e610] transition-colors shadow-[0_0_15px_rgba(163,255,18,0.3)]">
+                Live Demo ↗
+              </a>
+              <a href="https://github.com/varshitha0101/SalesPulseAI" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-5 py-2.5 border border-white/20 text-white text-sm font-bold tracking-widest uppercase rounded hover:border-[#a3ff12] hover:text-[#a3ff12] transition-colors">
+                GitHub ↗
+              </a>
             </div>
           </div>
           <div className="proj-item">
@@ -200,9 +204,13 @@ export default function Home() {
             <div className="proj-stack">
               <span className="stack-tag">React</span><span className="stack-tag">Flask</span><span className="stack-tag">RoBERTa</span><span className="stack-tag">NLP</span>
             </div>
-            <div style={{marginTop: '15px', display: 'flex', gap: '10px'}}>
-              <a href="https://mindfulai-cbt.vercel.app/" target="_blank" rel="noreferrer" className="btn-primary" style={{padding: '6px 12px', fontSize: '10px'}}>Live Demo</a>
-              <a href="https://github.com/varshitha0101/MindfulAI" target="_blank" rel="noreferrer" className="btn-ghost" style={{padding: '6px 12px', fontSize: '10px'}}>GitHub</a>
+            <div className="flex gap-4 mt-6">
+              <a href="https://mindfulai-cbt.vercel.app/" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-5 py-2.5 bg-[#a3ff12] text-black text-sm font-bold tracking-widest uppercase rounded hover:bg-[#92e610] transition-colors shadow-[0_0_15px_rgba(163,255,18,0.3)]">
+                Live Demo ↗
+              </a>
+              <a href="https://github.com/varshitha0101/MindfulAI" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-5 py-2.5 border border-white/20 text-white text-sm font-bold tracking-widest uppercase rounded hover:border-[#a3ff12] hover:text-[#a3ff12] transition-colors">
+                GitHub ↗
+              </a>
             </div>
           </div>
           <div className="proj-item">
@@ -219,9 +227,13 @@ export default function Home() {
             <div className="proj-stack">
               <span className="stack-tag">Next.js</span><span className="stack-tag">Machine Learning</span><span className="stack-tag">WebSockets</span><span className="stack-tag">APIs</span>
             </div>
-            <div style={{marginTop: '15px', display: 'flex', gap: '10px'}}>
-              <a href="https://shadownets.netlify.app/" target="_blank" rel="noreferrer" className="btn-primary" style={{padding: '6px 12px', fontSize: '10px'}}>Live Demo</a>
-              <a href="https://github.com/varshitha0101/ShadowNet" target="_blank" rel="noreferrer" className="btn-ghost" style={{padding: '6px 12px', fontSize: '10px'}}>GitHub</a>
+            <div className="flex gap-4 mt-6">
+              <a href="https://shadownets.netlify.app/" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-5 py-2.5 bg-[#a3ff12] text-black text-sm font-bold tracking-widest uppercase rounded hover:bg-[#92e610] transition-colors shadow-[0_0_15px_rgba(163,255,18,0.3)]">
+                Live Demo ↗
+              </a>
+              <a href="https://github.com/varshitha0101/ShadowNet" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-5 py-2.5 border border-white/20 text-white text-sm font-bold tracking-widest uppercase rounded hover:border-[#a3ff12] hover:text-[#a3ff12] transition-colors">
+                GitHub ↗
+              </a>
             </div>
           </div>
         </div>
